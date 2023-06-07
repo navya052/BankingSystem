@@ -1,0 +1,2 @@
+nikhil|nikhil05|National Identity card (NIC)|01|1001|nikhil@gmail.com|9353213361|05/02/2001|1|0|
+navya|navya05|National Identity card (NIC)|02|1002|navya@gmail.com|1234567890|05/02/2002|2|95|
